@@ -7,7 +7,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/chirag-sharma-5172/">
+<a href="www.linkedin.com/in/chirag-sharma-5a79b4322">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
