@@ -190,81 +190,84 @@ A smart environmental monitoring platform designed to support forest conservatio
 - Cyber Threat Intelligence
 
 
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
 
-<!-- GitHub Stats -->
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ===================== STREAK ===================== -->
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ===================== TROPHIES ===================== -->
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Chirag04-bit&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<div align="center">
+
+<img width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ===================== SNAKE ===================== -->
+
+<div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    height="170"/>
-</picture>
 
-<!-- Top Languages -->
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake-dark.svg">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&theme=github_dark&hide_border=true"/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&theme=default&hide_border=true"
-    height="170"/>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<!-- GitHub Streak -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark&hide_border=true"/>
-  <img
-    src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=default&hide_border=true"/>
-</picture>
-
-</div>
-
-<br>
+<!-- ===================== VISITOR COUNT ===================== -->
 
 <div align="center">
 
-<!-- Contribution Graph -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=ffffff&color=000000&line=0969da&point=cf222e&area=true&hide_border=true"
-    width="100%"/>
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Snake Animation -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake-dark.svg"/>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"/>
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"/>
-</picture>
+<img
+src="https://komarev.com/ghpvc/?username=Chirag04-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
