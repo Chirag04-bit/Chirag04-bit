@@ -80,21 +80,34 @@ A cybersecurity assistant that leverages **Large Language Models (LLMs)** to ana
 **Highlights**
 - 🔐 Threat Intelligence Analysis
 - 🤖 AI-Powered Security Assistant
-- 📊 Automated Threat Summaries
-- 🧠 LLM-Based Cybersecurity Insights
+- 📝 Automated Threat Summaries
+- 💡 LLM-Based Cybersecurity Insights
 
 ---
 
-### ❤️ General Health Predictor
+### 📈 Sales Forecasting & Demand Intelligence System
+**End-to-End Retail Analytics & Forecasting Platform**
+
+An advanced sales forecasting and inventory intelligence system built using **Python, Prophet, SARIMA, XGBoost, Scikit-Learn, and Streamlit** to optimize replenishment, detect sales anomalies, and segment products.
+
+**Highlights**
+- 🔮 Multi-Model Forecasting (Prophet, SARIMA, XGBoost)
+- ⚡ Interactive 4-Page Streamlit Dashboard
+- 🚨 Sales Anomaly Detection (Isolation Forest & Z-Score)
+- 🎯 Product Demand Segmentation (K-Means Clustering)
+
+---
+
+### 🩺 General Health Predictor
 **Machine Learning Healthcare Application**
 
 A web-based health prediction system built using **Flask** and **Scikit-Learn** that estimates potential health risks based on medical and lifestyle parameters.
 
 **Highlights**
-- 📈 Machine Learning Prediction
-- 🩺 Health Risk Assessment
+- 🧠 Machine Learning Prediction
+- 📋 Health Risk Assessment
 - 🌐 Flask Web Application
-- 📊 Data Preprocessing & Model Evaluation
+- 🛠️ Data Preprocessing & Model Evaluation
 
 ---
 
@@ -111,15 +124,15 @@ A comparative machine learning project that classifies brain tumors from MRI dat
 
 ---
 
-### 🩺 VITALiT
+### 🧬 VITALiT
 **Low-Cost Digital Twin Healthcare Platform**
 
 An IoT-enabled healthcare monitoring system integrating **Raspberry Pi**, physiological sensors, and AI-based anomaly detection for real-time patient monitoring.
 
 **Highlights**
-- ❤️ Heart Rate & SpO₂ Monitoring
-- 📡 Real-Time Sensor Data Collection
-- 🤖 AI-Based Anomaly Detection
+- 🩺 Heart Rate & SpO2 Monitoring
+- 📊 Real-Time Sensor Data Collection
+- 🚨 AI-Based Anomaly Detection
 - ☁️ Cloud Synchronization
 
 ---
@@ -130,9 +143,9 @@ An IoT-enabled healthcare monitoring system integrating **Raspberry Pi**, physio
 A smart environmental monitoring platform designed to support forest conservation using AI-driven analysis and real-time alerts.
 
 **Highlights**
-- 🌳 Environmental Monitoring
+- 🌍 Environmental Monitoring
 - 🔥 Early Fire Detection
-- 📍 Smart Alert System
+- 🔔 Smart Alert System
 - 📊 Data Visualization
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
@@ -151,6 +164,8 @@ A smart environmental monitoring platform designed to support forest conservatio
 
 - Scikit-Learn
 - XGBoost
+- Prophet
+- Statsmodels (SARIMA)
 - Random Forest
 - Logistic Regression
 - KNN
@@ -179,6 +194,7 @@ A smart environmental monitoring platform designed to support forest conservatio
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
 #### Concepts
 
@@ -188,6 +204,9 @@ A smart environmental monitoring platform designed to support forest conservatio
 - Feature Engineering
 - Model Evaluation
 - Cyber Threat Intelligence
+- Time Series Forecasting
+- Anomaly Detection
+- Product Segmentation
 
 
 <!-- ===================== GITHUB STATS ===================== -->
