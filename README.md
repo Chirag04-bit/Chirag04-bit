@@ -51,17 +51,61 @@ Currently exploring:
 - 🔐 Cyber Threat Intelligence
 - ☁️ Cloud AI
 - 🚀 Open Source
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
+<img src="assets/s03.svg"/>
+</picture>
+
 ### Technical Stack
 
-* **Programming:** Python, SQL, C
+#### Languages
 
-* **AI/ML:** Machine Learning, LLMs, Generative AI, AI Agents, Retrieval-Augmented Generation (RAG), Scikit-Learn, XGBoost
+- Python
+- SQL
+- C
+- Java (Basics)
 
-* **Tools:** LangChain, Gemini API, FAISS, Streamlit, Flask, Git, GitHub
+#### Machine Learning
 
-* **Concepts:** Cyber Threat Intelligence, Data Preprocessing, Feature Engineering, Model Evaluation, Prompt Engineering
+- Scikit-Learn
+- XGBoost
+- Random Forest
+- Logistic Regression
+- KNN
+- SVM
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="03 — projects"/></picture>
+#### AI & LLMs
+
+- LangChain
+- Gemini API
+- FAISS
+- Sentence Transformers
+- HuggingFace
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+#### Frameworks
+
+- Streamlit
+- Flask
+- Git
+- GitHub
+- Jupyter Notebook
+
+#### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+
+#### Concepts
+
+- AI Agents
+- Generative AI
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Cyber Threat Intelligence
 
 ### Projects
 
