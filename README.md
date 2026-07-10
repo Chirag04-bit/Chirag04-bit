@@ -192,19 +192,26 @@ A smart environmental monitoring platform designed to support forest conservatio
 
 <div align="center">
 
+<!-- GitHub Stats -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/>
-  <img src="assets/github-stats.svg" width="97%" alt="GitHub Statistics"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="170"/>
 </picture>
 
-<br>
+<!-- Top Languages -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=Contribution%20Activity"
-       width="97%"
-       alt="GitHub Contribution Graph"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&theme=default&hide_border=true"
+    height="170"/>
 </picture>
 
 </div>
@@ -213,16 +220,51 @@ A smart environmental monitoring platform designed to support forest conservatio
 
 <div align="center">
 
+<!-- GitHub Streak -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=default&hide_border=true"/>
+</picture>
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg">
+</div>
 
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg">
+<br>
 
+<div align="center">
+
+<!-- Contribution Graph -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=ffffff&color=000000&line=0969da&point=cf222e&area=true&hide_border=true"
+    width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Snake Animation -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"/>
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"/>
 </picture>
 
 </div>
