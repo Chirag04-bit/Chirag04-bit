@@ -1,15 +1,35 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg?v=2"/><img src="assets/header-v1.svg?v=2" alt="Chirag Sharma"/></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg?v=2"/>
+  <img src="assets/header-v1.svg?v=2" alt="Chirag Sharma"/>
+</picture>
 
-<a href="https://www.linkedin.com/in/chirag-sharma-5172/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-60A5FA?style=flat-square&logo=linkedin&logoColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></picture></a>
+<br><br>
 
-<a href="mailto:sharmachirag1092@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-F87171?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logoColor=ffffff" alt="Email"/></picture></a>
+<a href="https://www.linkedin.com/in/chirag-sharma-5172/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-60A5FA?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</picture>
+</a>
+
+<a href="mailto:sharmachirag1092@gmail.com">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-F87171?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</picture>
+</a>
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+---
 
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Chirag04-bit&style=for-the-badge)
+
+</p>
 ### About Me
 
 AI/Machine Learning Engineer and Computer Science undergraduate specializing in Artificial Intelligence. Experience in Machine Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). Passionate about building intelligent applications and AI-powered software using Python, LangChain, FAISS, and Streamlit.
