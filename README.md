@@ -52,62 +52,6 @@ Currently exploring:
 - ☁️ Cloud AI
 - 🚀 Open Source
 
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
-<img src="assets/s06.svg"/>
-</picture>
-### Technical Stack
-
-#### Languages
-
-- Python
-- SQL
-- C
-- Java (Basics)
-
-#### Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- Random Forest
-- Logistic Regression
-- KNN
-- SVM
-
-#### AI & LLMs
-
-- LangChain
-- Gemini API
-- FAISS
-- Sentence Transformers
-- HuggingFace
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-
-#### Frameworks
-
-- Streamlit
-- Flask
-- Git
-- GitHub
-- Jupyter Notebook
-
-#### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-
-#### Concepts
-
-- AI Agents
-- Generative AI
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Cyber Threat Intelligence
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
 <img src="assets/s03.svg"/>
@@ -190,6 +134,62 @@ A smart environmental monitoring platform designed to support forest conservatio
 - 🔥 Early Fire Detection
 - 📍 Smart Alert System
 - 📊 Data Visualization
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
+<img src="assets/s06.svg"/>
+</picture>
+### Technical Stack
+
+#### Languages
+
+- Python
+- SQL
+- C
+- Java (Basics)
+
+#### Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- Random Forest
+- Logistic Regression
+- KNN
+- SVM
+
+#### AI & LLMs
+
+- LangChain
+- Gemini API
+- FAISS
+- Sentence Transformers
+- HuggingFace
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+#### Frameworks
+
+- Streamlit
+- Flask
+- Git
+- GitHub
+- Jupyter Notebook
+
+#### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+
+#### Concepts
+
+- AI Agents
+- Generative AI
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Cyber Threat Intelligence
+
+
 <div align="center">
 
 <picture>
