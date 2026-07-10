@@ -51,11 +51,12 @@ Currently exploring:
 - 🔐 Cyber Threat Intelligence
 - ☁️ Cloud AI
 - 🚀 Open Source
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
-<img src="assets/s03.svg"/>
-</picture>
 
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
+<img src="assets/s06.svg"/>
+</picture>
 ### Technical Stack
 
 #### Languages
@@ -108,10 +109,9 @@ Currently exploring:
 - Cyber Threat Intelligence
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
-<img src="assets/s06.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
+<img src="assets/s03.svg"/>
 </picture>
-
 ## Featured Projects
 
 ### 🚀 RepoSense AI
