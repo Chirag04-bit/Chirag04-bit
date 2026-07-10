@@ -112,11 +112,6 @@ Currently exploring:
 <img src="assets/s06.svg"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
-  <img src="assets/s06.svg" alt="03 — Projects"/>
-</picture>
-
 ## Featured Projects
 
 ### 🚀 RepoSense AI
