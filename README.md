@@ -112,4 +112,122 @@ Currently exploring:
 <img src="assets/s06.svg"/>
 </picture>
 
-### Projects * **RepoSense AI:** AI-Powered GitHub Repository Analyzer using Python, LangChain, and FAISS. Implemented repository chat, README generation, and semantic code search. * **VITALIT:** Digital Twin healthcare platform for real-time physiological monitoring using Python and Raspberry Pi. Integrated AI-driven anomaly detection with cloud synchronization. * **General Health Predictor:** ML web application to predict health risks using medical and lifestyle parameters, featuring an end-to-end deployment pipeline with Flask and Scikit-Learn. <div align="center"> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture> </div> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg"> </picture> </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
+  <img src="assets/s06.svg" alt="03 — Projects"/>
+</picture>
+
+## Featured Projects
+
+### 🚀 RepoSense AI
+**AI-Powered GitHub Repository Analyzer**
+
+An intelligent repository analysis platform built using **Python, LangChain, Gemini API, FAISS, and Streamlit**. It enables developers to understand repositories through conversational AI.
+
+**Highlights**
+- 💬 Repository Chat with LLMs
+- 🔍 Semantic Code Search
+- 📝 AI README Generation
+- 📂 Repository Indexing using FAISS
+- ⚡ Interactive Streamlit Dashboard
+
+---
+
+### 🛡️ SENTINAL
+**AI-Powered Cyber Threat Intelligence Platform**
+
+A cybersecurity assistant that leverages **Large Language Models (LLMs)** to analyze threat intelligence, summarize security data, and provide actionable insights for cyber defense.
+
+**Highlights**
+- 🔐 Threat Intelligence Analysis
+- 🤖 AI-Powered Security Assistant
+- 📊 Automated Threat Summaries
+- 🧠 LLM-Based Cybersecurity Insights
+
+---
+
+### ❤️ General Health Predictor
+**Machine Learning Healthcare Application**
+
+A web-based health prediction system built using **Flask** and **Scikit-Learn** that estimates potential health risks based on medical and lifestyle parameters.
+
+**Highlights**
+- 📈 Machine Learning Prediction
+- 🩺 Health Risk Assessment
+- 🌐 Flask Web Application
+- 📊 Data Preprocessing & Model Evaluation
+
+---
+
+### 🧠 Brain Tumor Classification
+**MRI Image Classification using Machine Learning**
+
+A comparative machine learning project that classifies brain tumors from MRI data using multiple supervised learning algorithms.
+
+**Algorithms**
+- Random Forest
+- Support Vector Machine (SVM)
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+
+---
+
+### 🩺 VITALiT
+**Low-Cost Digital Twin Healthcare Platform**
+
+An IoT-enabled healthcare monitoring system integrating **Raspberry Pi**, physiological sensors, and AI-based anomaly detection for real-time patient monitoring.
+
+**Highlights**
+- ❤️ Heart Rate & SpO₂ Monitoring
+- 📡 Real-Time Sensor Data Collection
+- 🤖 AI-Based Anomaly Detection
+- ☁️ Cloud Synchronization
+
+---
+
+### 🌲 ForestEye
+**AI-Based Forest Monitoring System**
+
+A smart environmental monitoring platform designed to support forest conservation using AI-driven analysis and real-time alerts.
+
+**Highlights**
+- 🌳 Environmental Monitoring
+- 🔥 Early Fire Detection
+- 📍 Smart Alert System
+- 📊 Data Visualization
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/>
+  <img src="assets/github-stats.svg" width="97%" alt="GitHub Statistics"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&bg_color=00000000&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=Contribution%20Activity"
+       width="97%"
+       alt="GitHub Contribution Graph"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-snake.svg">
+
+</picture>
+
+</div>
