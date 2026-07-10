@@ -30,12 +30,27 @@
 ![](https://komarev.com/ghpvc/?username=Chirag04-bit&style=for-the-badge)
 
 </p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/>
+<img src="assets/s01.svg"/>
+</picture>
+
 ### About Me
 
-AI/Machine Learning Engineer and Computer Science undergraduate specializing in Artificial Intelligence. Experience in Machine Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). Passionate about building intelligent applications and AI-powered software using Python, LangChain, FAISS, and Streamlit.
+👋 Hi! I'm **Chirag Sharma**, a Computer Science undergraduate specializing in **Artificial Intelligence**.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="02 — stack"/></picture>
+I enjoy designing intelligent software powered by **Machine Learning**, **Large Language Models (LLMs)**, **Agentic AI**, and **Retrieval-Augmented Generation (RAG)**.
 
+My goal is to build practical AI systems that solve real-world problems in healthcare, cybersecurity, software engineering, and automation.
+
+Currently exploring:
+
+- 🤖 AI Agents
+- 🧠 Large Language Models
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔐 Cyber Threat Intelligence
+- ☁️ Cloud AI
+- 🚀 Open Source
 ### Technical Stack
 
 * **Programming:** Python, SQL, C
