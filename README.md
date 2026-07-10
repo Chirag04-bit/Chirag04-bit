@@ -236,16 +236,7 @@ src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark-blue&h
 
 <br>
 
-<!-- ===================== TROPHIES ===================== -->
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Chirag04-bit&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
-<br>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
