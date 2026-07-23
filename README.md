@@ -271,4 +271,3 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit
 src="https://komarev.com/ghpvc/?username=Chirag04-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-give whole code
