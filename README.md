@@ -130,22 +130,10 @@ Currently exploring:
 
 <td width="50%">
 
-### 🌲 ForestEye
-> AI-powered Forest Monitoring Platform.
+### 🚧 More Projects
+Explore additional projects, experiments, and utilities on my GitHub profile.
 
-**Tech Stack**
-
-`Python`
-`AI`
-`Streamlit`
-
-**Features**
-- 🌍 Environmental Monitoring
-- 🔥 Fire Detection
-- 🚨 Smart Alerts
-- 📈 Visualization Dashboard
-
-🔗 **Repository:** *(Coming Soon)*
+🔗 **Repositories:** https://github.com/Chirag04-bit?tab=repositories
 
 </td>
 </tr>
@@ -155,14 +143,17 @@ Currently exploring:
 
 ### 📂 Other Projects
 
+- ❤️ VITALiT – Digital Twin Healthcare Framework
 - 🩺 General Health Predictor
 - 🧠 Brain Tumor Classification
-- ❤️ VITALiT Digital Twin Framework
+- 🏠 House Price Prediction
 - 📋 Simple Task List
 - 📧 Email Validator
-- 🏠 House Price Prediction
+- 🤖 Customer Support Agent
+- 📊 Employee Attrition Prediction
 
-➡️ **View all repositories:** https://github.com/Chirag04-bit?tab=repositories
+➡️ **View all repositories:**  
+https://github.com/Chirag04-bit?tab=repositories
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
 <img src="assets/s06.svg"/>
