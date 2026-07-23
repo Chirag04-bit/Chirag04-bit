@@ -217,11 +217,7 @@ Currently exploring:
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag04-bit&theme=github-dark-blue&hide_border=true"
     />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag04-bit&theme=default&hide_border=true"
-      height="170"
-      alt="GitHub Streak"
-    />
+ 
   </picture>
 </p>
 
