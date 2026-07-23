@@ -77,7 +77,7 @@ Currently exploring:
 - 📝 AI README Generator
 - ⚡ FAISS Vector Search
 
-🔗 **Repository:** [RepoSense AI](YOUR_LINK)
+🔗 **Repository:** https://github.com/Chirag04-bit/RepoSense-AI
 
 </td>
 
@@ -99,7 +99,7 @@ Currently exploring:
 - 📄 Threat Summaries
 - 💡 Cybersecurity Insights
 
-🔗 **Repository:** [SENTINAL](YOUR_LINK)
+🔗 **Repository:** https://github.com/Chirag04-bit/SENTINAL
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ Currently exploring:
 - 🚨 Anomaly Detection
 - 🎯 Product Segmentation
 
-🔗 **Repository:** [Sales Forecasting](YOUR_LINK)
+🔗 **Repository:** https://github.com/Chirag04-bit/SalesForecasting-Superstore
 
 </td>
 
@@ -145,7 +145,7 @@ Currently exploring:
 - 🚨 Smart Alerts
 - 📈 Visualization Dashboard
 
-🔗 **Repository:** [ForestEye](YOUR_LINK)
+🔗 **Repository:** *(Coming Soon)*
 
 </td>
 </tr>
