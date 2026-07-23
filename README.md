@@ -22,7 +22,6 @@
 </a>
 
 </div>
-<!-- ===================== VISITOR COUNT ===================== -->
 
 <div align="center">
 
@@ -152,17 +151,6 @@ Currently exploring:
 </table>
 
 ---
-
-### 📂 Other Projects
-
-- ❤️ VITALiT – Digital Twin Healthcare Framework
-- 🩺 General Health Predictor
-- 🧠 Brain Tumor Classification
-- 🏠 House Price Prediction
-- 📋 Simple Task List
-- 📧 Email Validator
-- 🤖 Customer Support Agent
-- 📊 Employee Attrition Prediction
 
 ➡️ **View all repositories:**  
 https://github.com/Chirag04-bit?tab=repositories
