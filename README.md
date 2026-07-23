@@ -152,8 +152,6 @@ Currently exploring:
 
 ---
 
-➡️ **View all repositories:**  
-https://github.com/Chirag04-bit?tab=repositories
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
 <img src="assets/s06.svg"/>
