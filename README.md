@@ -247,28 +247,39 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit
 <br>
 
 <!-- ===================== SNAKE ===================== -->
+name: Generate Snake Animation
 
-<div align="center">
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-<picture>
+permissions:
+  contents: write
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake-dark.svg">
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Chirag04-bit
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-
-<br>
+      - name: Push Snake to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
 
 <!-- ===================== VISITOR COUNT ===================== -->
 
