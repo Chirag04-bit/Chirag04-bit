@@ -56,7 +56,7 @@ Currently exploring:
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
 <img src="assets/s03.svg"/>
 </picture>
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
