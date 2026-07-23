@@ -130,7 +130,6 @@ Currently exploring:
 
 <td width="50%">
 
-<td width="50%">
 
 ### ❤️ VITALiT
 > AI-powered Digital Twin Healthcare Platform.
