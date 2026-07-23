@@ -150,16 +150,42 @@ A smart environmental monitoring platform designed to support forest conservatio
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
 <img src="assets/s06.svg"/>
-</picture>
-| **Category**   | **Skills**                                                                                                                                                                               |
-| :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**  | Python • SQL • C • Java (Basics)                                                                                                                                                         |
-| **ML**         | Scikit-Learn • XGBoost • Prophet • SARIMA • Random Forest • Logistic Regression • KNN • SVM                                                                                              |
-| **AI/LLMs**    | LangChain • Gemini API • FAISS • Sentence Transformers • Hugging Face • Prompt Engineering • RAG                                                                                         |
-| **Frameworks** | Streamlit • Flask • Git • GitHub • Jupyter Notebook                                                                                                                                      |
-| **Libraries**  | Pandas • NumPy • Matplotlib • Seaborn                                                                                                                                                    |
-| **Concepts**   | AI Agents • Generative AI • Data Preprocessing • Feature Engineering • Model Evaluation • Cyber Threat Intelligence • Time Series Forecasting • Anomaly Detection • Product Segmentation |
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Skills</th>
+  </tr>
 
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python • SQL • C • Java (Basics)</td>
+  </tr>
+
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>Scikit-Learn • XGBoost • Prophet • SARIMA • Random Forest • Logistic Regression • KNN • SVM</td>
+  </tr>
+
+  <tr>
+    <td><b>AI & LLMs</b></td>
+    <td>LangChain • Gemini API • FAISS • Sentence Transformers • Hugging Face • Prompt Engineering • RAG</td>
+  </tr>
+
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>Streamlit • Flask • Git • GitHub • Jupyter Notebook</td>
+  </tr>
+
+  <tr>
+    <td><b>Libraries</b></td>
+    <td>Pandas • NumPy • Matplotlib • Seaborn</td>
+  </tr>
+
+  <tr>
+    <td><b>Concepts</b></td>
+    <td>AI Agents • Generative AI • Data Preprocessing • Feature Engineering • Model Evaluation • Cyber Threat Intelligence • Time Series Forecasting • Anomaly Detection • Product Segmentation</td>
+  </tr>
+</table>
 <!-- ===================== GITHUB STATS ===================== -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
