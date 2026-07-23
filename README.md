@@ -151,63 +151,14 @@ A smart environmental monitoring platform designed to support forest conservatio
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
 <img src="assets/s06.svg"/>
 </picture>
-### Technical Stack
-
-#### Languages
-
-- Python
-- SQL
-- C
-- Java (Basics)
-
-#### Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- Prophet
-- Statsmodels (SARIMA)
-- Random Forest
-- Logistic Regression
-- KNN
-- SVM
-
-#### AI & LLMs
-
-- LangChain
-- Gemini API
-- FAISS
-- Sentence Transformers
-- HuggingFace
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-
-#### Frameworks
-
-- Streamlit
-- Flask
-- Git
-- GitHub
-- Jupyter Notebook
-
-#### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-#### Concepts
-
-- AI Agents
-- Generative AI
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Cyber Threat Intelligence
-- Time Series Forecasting
-- Anomaly Detection
-- Product Segmentation
-
+| **Category**   | **Skills**                                                                                                                                                                               |
+| :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**  | Python • SQL • C • Java (Basics)                                                                                                                                                         |
+| **ML**         | Scikit-Learn • XGBoost • Prophet • SARIMA • Random Forest • Logistic Regression • KNN • SVM                                                                                              |
+| **AI/LLMs**    | LangChain • Gemini API • FAISS • Sentence Transformers • Hugging Face • Prompt Engineering • RAG                                                                                         |
+| **Frameworks** | Streamlit • Flask • Git • GitHub • Jupyter Notebook                                                                                                                                      |
+| **Libraries**  | Pandas • NumPy • Matplotlib • Seaborn                                                                                                                                                    |
+| **Concepts**   | AI Agents • Generative AI • Data Preprocessing • Feature Engineering • Model Evaluation • Cyber Threat Intelligence • Time Series Forecasting • Anomaly Detection • Product Segmentation |
 
 <!-- ===================== GITHUB STATS ===================== -->
 
