@@ -130,10 +130,24 @@ Currently exploring:
 
 <td width="50%">
 
-### 🚧 More Projects
-Explore additional projects, experiments, and utilities on my GitHub profile.
+<td width="50%">
 
-🔗 **Repositories:** https://github.com/Chirag04-bit?tab=repositories
+### ❤️ VITALiT
+> AI-powered Digital Twin Healthcare Platform.
+
+**Tech Stack**
+
+`Python` `Raspberry Pi`
+`LSTM` `MQTT`
+`Streamlit`
+
+**Features**
+- 🩺 Real-Time Vital Monitoring
+- 🤖 AI-Based Anomaly Detection
+- ☁️ Cloud Health Dashboard
+- 📊 Digital Twin Analytics
+
+🔗 **Repository:** https://github.com/Chirag04-bit/VITALiT
 
 </td>
 </tr>
