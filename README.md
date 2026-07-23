@@ -25,16 +25,6 @@
 
 ---
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=Chirag04-bit&style=for-the-badge)
-
-</p>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/>
-<img src="assets/s01.svg"/>
-</picture>
-
 ### About Me
 
 👋 Hi! I'm **Chirag Sharma**, a Computer Science undergraduate specializing in **Artificial Intelligence**.
