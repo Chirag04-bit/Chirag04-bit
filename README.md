@@ -222,7 +222,20 @@ src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark-blue&h
 
 <br>
 
+<!-- ===================== GITHUB METRICS ===================== -->
 
+<h2 align="center">📈 GitHub Metrics</h2>
+
+<div align="center">
+
+<img
+src="assets/github-metrics.svg"
+width="98%"
+alt="GitHub Metrics"/>
+
+</div>
+
+<br>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
