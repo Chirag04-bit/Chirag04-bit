@@ -199,17 +199,21 @@ Currently exploring:
 </table>
 <!-- ===================== GITHUB STATS ===================== -->
 
-<!-- ===================== GITHUB STATS ===================== -->
+
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+<p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag04-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</p>
 
 </div>
 
