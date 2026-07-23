@@ -225,18 +225,30 @@ src="https://streak-stats.demolab.com?user=Chirag04-bit&theme=github-dark-blue&h
 
 <!-- ===================== GITHUB METRICS ===================== -->
 
-<h2 align="center">📈 GitHub Metrics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag04-bit&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
 <img
-src="assets/github-metrics.svg"
-width="98%"
-alt="GitHub Metrics"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit&theme=tokyo-night&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-<br>
+<p align="center">
+<img
+src="https://github-profile-trophy.vercel.app/?username=Chirag04-bit&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
