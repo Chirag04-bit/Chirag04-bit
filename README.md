@@ -56,97 +56,113 @@ Currently exploring:
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
 <img src="assets/s03.svg"/>
 </picture>
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🚀 RepoSense AI
-**AI-Powered GitHub Repository Analyzer**
+> AI-powered GitHub Repository Analyzer using RAG & LLMs.
 
-An intelligent repository analysis platform built using **Python, LangChain, Gemini API, FAISS, and Streamlit**. It enables developers to understand repositories through conversational AI.
+**Tech Stack**
 
-**Highlights**
-- 💬 Repository Chat with LLMs
+`Python` `LangChain` `Gemini`
+`FAISS` `Sentence Transformers`
+`Streamlit`
+
+**Features**
+- 💬 Repository Chat
 - 🔍 Semantic Code Search
-- 📝 AI README Generation
-- 📂 Repository Indexing using FAISS
-- ⚡ Interactive Streamlit Dashboard
+- 📝 AI README Generator
+- ⚡ FAISS Vector Search
 
----
+🔗 **Repository:** [RepoSense AI](YOUR_LINK)
+
+</td>
+
+<td width="50%">
 
 ### 🛡️ SENTINAL
-**AI-Powered Cyber Threat Intelligence Platform**
+> AI-powered Cyber Threat Intelligence Platform.
 
-A cybersecurity assistant that leverages **Large Language Models (LLMs)** to analyze threat intelligence, summarize security data, and provide actionable insights for cyber defense.
+**Tech Stack**
 
-**Highlights**
-- 🔐 Threat Intelligence Analysis
-- 🤖 AI-Powered Security Assistant
-- 📝 Automated Threat Summaries
-- 💡 LLM-Based Cybersecurity Insights
+`Python`
+`LangChain`
+`Gemini`
+`Flask`
 
----
+**Features**
+- 🛡 Threat Analysis
+- 🤖 AI Security Assistant
+- 📄 Threat Summaries
+- 💡 Cybersecurity Insights
 
-### 📈 Sales Forecasting & Demand Intelligence System
-**End-to-End Retail Analytics & Forecasting Platform**
+🔗 **Repository:** [SENTINAL](YOUR_LINK)
 
-An advanced sales forecasting and inventory intelligence system built using **Python, Prophet, SARIMA, XGBoost, Scikit-Learn, and Streamlit** to optimize replenishment, detect sales anomalies, and segment products.
+</td>
+</tr>
 
-**Highlights**
-- 🔮 Multi-Model Forecasting (Prophet, SARIMA, XGBoost)
-- ⚡ Interactive 4-Page Streamlit Dashboard
-- 🚨 Sales Anomaly Detection (Isolation Forest & Z-Score)
-- 🎯 Product Demand Segmentation (K-Means Clustering)
+<tr>
+<td width="50%">
 
----
+### 📈 Sales Forecasting System
+> Retail Forecasting & Demand Intelligence Platform.
 
-### 🩺 General Health Predictor
-**Machine Learning Healthcare Application**
+**Tech Stack**
 
-A web-based health prediction system built using **Flask** and **Scikit-Learn** that estimates potential health risks based on medical and lifestyle parameters.
+`Python`
+`XGBoost`
+`SARIMA`
+`Prophet`
+`Streamlit`
 
-**Highlights**
-- 🧠 Machine Learning Prediction
-- 📋 Health Risk Assessment
-- 🌐 Flask Web Application
-- 🛠️ Data Preprocessing & Model Evaluation
+**Features**
+- 📊 Sales Forecasting
+- 📦 Demand Prediction
+- 🚨 Anomaly Detection
+- 🎯 Product Segmentation
 
----
+🔗 **Repository:** [Sales Forecasting](YOUR_LINK)
 
-### 🧠 Brain Tumor Classification
-**MRI Image Classification using Machine Learning**
+</td>
 
-A comparative machine learning project that classifies brain tumors from MRI data using multiple supervised learning algorithms.
-
-**Algorithms**
-- Random Forest
-- Support Vector Machine (SVM)
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-
----
-
-### 🧬 VITALiT
-**Low-Cost Digital Twin Healthcare Platform**
-
-An IoT-enabled healthcare monitoring system integrating **Raspberry Pi**, physiological sensors, and AI-based anomaly detection for real-time patient monitoring.
-
-**Highlights**
-- 🩺 Heart Rate & SpO2 Monitoring
-- 📊 Real-Time Sensor Data Collection
-- 🚨 AI-Based Anomaly Detection
-- ☁️ Cloud Synchronization
-
----
+<td width="50%">
 
 ### 🌲 ForestEye
-**AI-Based Forest Monitoring System**
+> AI-powered Forest Monitoring Platform.
 
-A smart environmental monitoring platform designed to support forest conservation using AI-driven analysis and real-time alerts.
+**Tech Stack**
 
-**Highlights**
+`Python`
+`AI`
+`Streamlit`
+
+**Features**
 - 🌍 Environmental Monitoring
-- 🔥 Early Fire Detection
-- 🔔 Smart Alert System
-- 📊 Data Visualization
+- 🔥 Fire Detection
+- 🚨 Smart Alerts
+- 📈 Visualization Dashboard
+
+🔗 **Repository:** [ForestEye](YOUR_LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📂 Other Projects
+
+- 🩺 General Health Predictor
+- 🧠 Brain Tumor Classification
+- ❤️ VITALiT Digital Twin Framework
+- 📋 Simple Task List
+- 📧 Email Validator
+- 🏠 House Price Prediction
+
+➡️ **View all repositories:** https://github.com/Chirag04-bit?tab=repositories
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/>
 <img src="assets/s06.svg"/>
