@@ -236,7 +236,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit
 <br>
 
 <!-- ===================== SNAKE ===================== -->
-<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -247,8 +246,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit
     srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
 
   <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake-dark.svg">
 </picture>
-</p>
-
