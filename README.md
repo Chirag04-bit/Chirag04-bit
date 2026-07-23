@@ -199,7 +199,31 @@ Currently exploring:
 </table>
 <!-- ===================== GITHUB STATS ===================== -->
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Chirag04-bit&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+      height="170"
+      alt="GitHub Stats"
+    />
+  </picture>
 
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag04-bit&theme=github-dark-blue&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag04-bit&theme=default&hide_border=true"
+      height="170"
+      alt="GitHub Streak"
+    />
+  </picture>
+</p>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
