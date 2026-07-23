@@ -247,36 +247,21 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag04-bit
 <br>
 
 <!-- ===================== SNAKE ===================== -->
-name: Generate Snake Animation
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake-dark.svg">
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
 
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Chirag04-bit
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Update snake animation"
-
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Chirag04-bit/Chirag04-bit/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 <!-- ===================== VISITOR COUNT ===================== -->
 
 <div align="center">
